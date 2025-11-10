@@ -3,7 +3,7 @@
 
 ---
 
-### 🧬 About Me
+### About Me
 Hi! I’m **Kezia Irene**, a **Senior Bioinformatician** passionate about transforming **population genomics data** into **actionable precision medicine insights**.
 
 - 🧠 Focused on **Polygenic Risk Scores (PRS)** for **cardiometabolic diseases** — *obesity, diabetes, and hypertension*  
@@ -25,7 +25,7 @@ Hi! I’m **Kezia Irene**, a **Senior Bioinformatician** passionate about transf
 
 ---
 
-### 💡 Current Focus
+### Current Focus
 📈 Developing robust PRS pipelines for **cardiometabolic traits**  
 🧩 Integrating **genomic**, **phenotypic**, and **environmental** data  
 🧪 Exploring **multi-omics** and **AI-driven risk prediction**
