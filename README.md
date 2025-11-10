@@ -1,5 +1,5 @@
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=D0A2F7&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Kezia+Irene;Senior+Bioinformatician;Population+Genomics+%7C+Precision+Healthh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=D0A2F7&center=true&vCenter=true&width=600&lines=Hello+there+👋;I'm+Kezia+Irene+👩🏻‍🔬;Bioinformatics+Scientist+🧬;Population+Genomics+%7C+Precision+Health)](https://git.io/typing-svg)
 
 ---
 
