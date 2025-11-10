@@ -1,10 +1,10 @@
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=D0A2F7&center=true&vCenter=true&width=600&lines=Hello+there+👋;I'm+Kezia+Irene+👩🏻‍🔬;Bioinformatics+Scientist+🧬;Population+Genomics+%7C+Precision+Health)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=D0A2F7&center=true&vCenter=true&width=600&lines=Hello+there+👋;I'm+Kezia+Irene+👩🏻‍🔬;Bioinformatics+Data+Scientist+🧬;Population+Genomics+%7C+Precision+Health)](https://git.io/typing-svg)
 
 ---
 
 ### About Me
-Hi! I’m **Kezia Irene**, a **Senior Bioinformatician** passionate about transforming **population genomics data** into **actionable precision medicine insights**.
+Hi! I’m **Kezia Irene**, a **Bioinformatics Data Scientist** passionate about transforming **population genomics data** into **actionable precision medicine insights**.
 
 - 🧠 Focused on **Polygenic Risk Scores (PRS)** for **cardiometabolic diseases** — *obesity, diabetes, and hypertension*  
 - 📊 Experienced in **GWAS**, **genetic epidemiology**, and **predictive modeling**  
